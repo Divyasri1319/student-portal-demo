@@ -1,0 +1,8 @@
+student name:Divyasri
+Birth date:01-03-2006
+Gender:Female
+College:Aditya
+Couse:BCA
+SUC no:2358250003
+Section:4
+Roll no:31
